@@ -1,14 +1,6 @@
 ﻿**Softwarepraktikum WiSe 23/24**
 
-**Gruppe 12**
-
 Schulaufgabenplaner Benutzerhandbuch
-
-Betreuer: Leon Liman
-
-Chirstian Wagner, Nam Pham, Katja Dietze, Paul Igna
-
-6\. Februar 2024
 
 Inhaltsverzeichnis
 
@@ -17,13 +9,13 @@ Inhaltsverzeichnis
 1. [Struktur der Excel-Listen beim hochladen von Kursliste und Schülerliste . . . .](#_page2_x56.69_y602.93) . . . . . . 3
 1. [Die Kursliste ](#_page3_x56.69_y56.69). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
 1. [Die Kalenderliste .](#_page3_x56.69_y267.79) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-2. [Hochladen einer Excel-Datei . .](#_page3_x56.69_y602.63) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-3. [Syntaxprüfer .](#_page4_x56.69_y378.38) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1. [Hochladen einer Excel-Datei . .](#_page3_x56.69_y602.63) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1. [Syntaxprüfer .](#_page4_x56.69_y378.38) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
    [1.3.1 Kopfzeilen der Dateien . ](#_page5_x56.69_y484.85). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
 
-4. [Konfigurieren des Algorithmus . .](#_page6_x56.69_y56.69) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-5. [Der Kalender ](#_page6_x56.69_y552.68). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1. [Konfigurieren des Algorithmus . .](#_page6_x56.69_y56.69) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1. [Der Kalender ](#_page6_x56.69_y552.68). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 
 [2 Benutzeroberfläche Termin Tool](#_page9_x56.69_y472.45) 10
 
@@ -52,6 +44,7 @@ Abbildung 2: Reactour wenn man auf Erläuterung drückt
 
 - **Schülerliste-Hochladen:** Die Datei, die die Kursliste und Kalenderliste enthält und hochgeladen werden muss, sollte eine Excel-Datei im entsprechenden Format sein. Nach erfolgreichem Hochla- den wird der Button grün und zeigt die Anzahl der erfolgreich eingelesenen Kurse und Schüler an.
 - **Kalender-Hochladen:** BeimHochladendesKalenderswirddieAnzahldereingelesenenEreignisse sowie der Zeitraum, in dem die Schulaufgaben stattfinden,angezeigt.
+
 1. Struktur<a name="_page2_x56.69_y602.93"></a> der Excel-Listen beim hochladen von Kursliste und Schülerliste
 
 Für das erstellen der Excel-Listen gibt es zwei verschiedene Strukturen. Eine Struktur für die **Kursliste** und eine weitere für die **Kalenderliste**. Diese sehen wie folgt aus:
@@ -67,6 +60,7 @@ Eine Zeile in der Kursliste soll einen Kurs darstellen, wobei dieser **einen Nam
 - **Der Kurs** wird in Spalte A angebenen, wobei die Kopzeile in der ersten Zeile ist. Bei dem Kurs ist wichtig zu beachten, dass jeder Kurs in der Spalte nur **einmal** vorkommen darf.
 - **Der Lehrer, das Fach und die Schiene** werden jeweils in Spalte B, C und D angeben. Auch hier beginnt die Kopfzeile in der ersten Zeile. Hier kann es durch aus vorkommen, dass einer dieser Punkte mehrmals vorkommen. Zum Beispiel kann ein Lehrer mehrere Kurse unterrichten, mehrere Kurse können einer Schiene zugewiesen werden und es können auch mehrere Kurse ein Fach teilen.
 - **Die Schülerliste** beginnt ab der Spalte E. Im Vergleich zu den ersten vier Spalten, kann die Schülerliste mehr als nur ein Objekt beinhalten. Die Schüler des Kurses werden ab der Spalte E, in der zugehörigen Zeile der Kurses, Reihe nach aufgezählt, wobei jede Zelle nur einen Schüler beinhalten darf.
+
 2. Die<a name="_page3_x56.69_y267.79"></a> Kalenderliste
 
 Im Vergleich zur Kursliste, hat die Kalenderliste zwei Kopfzeilen. Eine Kopfzeile für das Einlesen der Zeitspanne des Schulhalbjahres und eine weitere für das Einlesen der Veranstaltungen, also die Ferien und Feiertage.
@@ -102,6 +96,7 @@ Abbildung 4: Kursliste und Kalenderliste beim Uploaden
 <a name="_page3_x394.91_y761.91"></a>Beim Hochladen können zwei Ereignisse eintreten:
 
 1. Die Datei wurde erfolgreich hochgeladen. Die Upload-Buttons leuchten grün auf und Ihnen werden zusätzlich Information bezüglich der jeweiligen Liste angegeben, siehe Abbildung 4.
+
 - Kursliste: Hier werden die Anzahl der Schüler und Kurse angegeben, die erfolgreich hochge- laden wurden.
 - Kalenderliste: Hier werden die Anzahl der Events angegeben, die erfolgreich hochgeladen wurden, als auch die Zeitspanne des Schulhalbjahres.
 
@@ -164,7 +159,7 @@ Spalte C, Zeile 1 ⇒ **Halbjahr - Ende**
 
 Spalte C, Zeile 4 ⇒ **Ende**
 
-Was Sie auch beachten müssen ist, dass Sie die richtige Excel-Datei hochladen. Um diesen Fehler zu vermeiden, soll der Name der Excel-Kursliste in irgendeiner Form das Wort kurs enthalten, wobei die Groß- und Kleinschreibung nicht berücksichtigt wird. So könnte die Liste z.B. **Kurs**liste\_Q12 heißen, aber nicht K-Liste., das Wort kurs fehlt. Genau das Gleiche gilt auch analog für die Kalenderliste mit dem Wort ’kalender’.
+Was Sie auch beachten müssen ist, dass Sie die richtige Excel-Datei hochladen. Um diesen Fehler zu vermeiden, soll der Name der Excel-Kursliste in irgendeiner Form das Wort kurs enthalten, wobei die Groß- und Kleinschreibung nicht berücksichtigt wird. So könnte die Liste z.B. **Kurs**liste_Q12 heißen, aber nicht K-Liste., das Wort kurs fehlt. Genau das Gleiche gilt auch analog für die Kalenderliste mit dem Wort ’kalender’.
 
 4. Konfigurieren<a name="_page6_x56.69_y56.69"></a> des Algorithmus
 

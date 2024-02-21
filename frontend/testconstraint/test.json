@@ -1,0 +1,32 @@
+[
+  {
+    "courseID": "d1",
+    "availability": true,
+    "startDate": "2023-12-11"
+  },
+  {
+    "courseID": "e1",
+    "availability": false,
+    "startDate": "2023-12-18"
+  },
+  {
+    "courseID": "d2",
+    "availability": true,
+    "startDate": "2023-12-11"
+  },
+  {
+    "courseID": "ch1",
+    "availability": false,
+    "startDate": "2023-12-20"
+  },
+  {
+    "courseID": "f1",
+    "availability": false,
+    "startDate": "2023-12-13"
+  },
+  {
+    "courseID": "d1",
+    "availability": false,
+    "startDate": "2023-12-15"
+  }
+]

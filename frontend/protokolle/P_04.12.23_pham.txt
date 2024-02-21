@@ -1,0 +1,30 @@
+Pauls Sprint:
+-komplette gui des kalendars ueberarbeitet in monaten
+
+nächster Sprint:
+-menu leiste der gui bzw alles um den kalender
+-fenster ansicht fuer algo (vlt)
+
+Christians Sprint:
+-absprache mit katja
+
+nächster Sprint:
+- mit absprache wie man die datei ausliest und welche informationen sind relevant 
+
+Katjas Sprint:
+
+-gruppen und klassen angelegt
+-datums anzeige
+-grundgeruest
+
+nächster Sprint:
+
+Pauls Sprint:
+-gui designed, mockupdesign (javafx)
+-controller fuer java application
+
+nächster Sprint:
+-funk. fuer loeschen und update mit gui verbinden (postmapping und speichern usw)
+
+Nächster Scrum-Master: kat
+Sprint bis zum: 18.12. um 11 Uhr 

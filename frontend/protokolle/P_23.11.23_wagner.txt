@@ -1,0 +1,42 @@
+Nams Sprint:
+- Gerüst der GUI erstellen
+- Auswahl der Information die relevant sind noch unklar. Muss noch durchdacht werden.
+- Kalenderansicht ist vorhanden
+→ man kann Termine in den jeweiligen Räumen hinzufügen und per drag and drop verschieben
+nächster Sprint:
+- Ansichten generell anpassen/überarbeiten/erweitern
+→ einführen einer Tagesansicht
+
+Christians Sprint:
+- Auslesen einer Excell Datei ohne Speicherung
+→ stattdessen eventuell eine Representation in einer Tabelle oder in der Konsolen-Ausgabe
+nächster Sprint:
+- Sammeln der Daten und lokale Speicherung
+- Brauchbar für die anderen machen
+- Abstimmung der Datenstruktur mit Katja
+→ Anlegen von Klassen und Objekten
+
+Katjas Sprint:
+- Auswahl des Algorithmus (Ablauf beschrieben)
+- Anlegen einer Datei
+- Pseudocode erstellt (pdf die den gewünschten Ablauf ziemlich gut beschreibt -> muss jedoch noch überarbeitet werden)
+- detailierte Gedanken zur Punktenverteilung des Algorithmus
+→ Aufteilung der Parameter als Objekte in
+ - Darum
+ - Terminconstraints
+ - Kurs
+ - Klausur
+ - Schülereinteilung
+nächster Sprint:
+- Abstimmung der Datenstruktur mit Christian
+→ Anlegen von Klassen und Objekten
+
+Pauls Sprint:
+- Backend Logic für das separate Tool (grundlegend)
+→ Erstellen, löschen, bearbeiten
+nächster Sprint:
+- Datenbank einführen
+- GUI mit einbringen
+
+Nächster Scrum-Master: Paul Igna
+Sprint bis zum: 04.12. um 10 Uhr (Katja würde beginnen wollen)

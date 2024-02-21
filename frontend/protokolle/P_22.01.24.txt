@@ -1,0 +1,61 @@
+P_22.01.24
+
+Höchste Priorität:
+vor dem nächsten Termin alles in den main mergen und ausprobieren können.
+
+Allgemein:
+* Beim Hochladen passierende Fehler abfangen und anzeigen
+* Kein fehler mehr beim Start
+
+Separates Tool Paul:
+Erledigt:
+* Hochladen der Constraintdatei in die Hauptanwendung
+* Formatierung und Spacing anpassen
+ToDo:
+* Titel in Terminwünsche ändern
+* Favorit/Geblockt als Radiobutton
+* Wenn es keine Termine gibt, soll kein Herunterladen button und keine Box angezeigt werden
+* Erster Kurs in der Liste wirft fehler
+* Punkt links in der kursliste entfernen
+* KursID => Kurs umbenennen
+* neue Constraints sollen erst den Platz nach rechts ausnutzen und dann erst nach unten rutschen
+* Hinweis, wenn Backend nicht verfügbar
+* Daten sollen über Neustart hinaus gespeichert bleiben
+* Alle löschen Knopf als Reset der Datenbank
+* Kommentieren
+* Tests für die Schnittstellen
+
+Datenverarbeitung Christian:
+Erledigt:
+* Syntaxüberprüfung Kalender
+* neue Klasse für Fehlermeldungen
+* keine doppelten schüler
+ToDo:
+* Export
+
+GUI Nam:
+Erledigt:
+* Erklärung der Buttons und der benötigten Reihenfolge
+* Informationen bei der Konfiguration des Algorithmus
+* Konfiguration bleibt gespeichert und Eingaben werden angezeigt
+ToDo:
+* Intro Text anpassen
+* Intro sollte in einer Session nur einmal kommen
+* Buttonreihenfolge verändern
+* Kalender Wochen und Tagesansicht weglassen
+* Kalender auf den verfügbaren Zeitraum beschränken
+* Infotexte bei der Konfiguration verbessern
+* Eingelesene Constraints anzeigen, bzw. wie viele eingelesen wurden
+* Kalender ausblenden/ausgrauen bis Kalenderliste hochgeladen wurde
+* Visuelles Feedback auf hochgeladene Kurse und Kalender
+
+Algorithmus Katja:
+Erledigt:
+* neue Initiale Verteilung
+* 
+ToDo:
+* Möglichkeit algo auch mehrere Schritte laufen zu lassen
+* Algo durchtesten mit größeren Testdaten
+
+
+

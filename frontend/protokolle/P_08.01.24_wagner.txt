@@ -1,0 +1,30 @@
+Sprint Meeting 08.01.2024
+Scrum-Meister: Christian Wagner
+
+Christian:
+- CourseFetcher: Fehlerausgabe für fehlende Angaben (mit Zeilenangabe)
+- Hochladen von der Kalenderliste
+- Student und Course Klasse von Katja übernommen (meine eigene Klasse abgelöst)
+- Code aufgeräumt und Lesbarkeit optimiert (verbesserte Dokumentation)
+- Fach und Schiene voneinander trennen :)
+(!) Erste Zeile der Excel Dateien soll auch eingelesen werden
+
+Nam:
+- GUI visuell optimiert
+ → Kalender und Kursliste Buttons optisch angepasst
+- Start button, der den Algo startet
+- Parameter Einstellung Dialog, die die Konstanten einstellt und speichert
+ (!) Default-Texte mit Default Werte als Optimierungsvorschlag
+(!) Ablauf visuell darstellen
+ → Es soll ersichtlich sein, dass man erst die Kursliste und die Schülerliste hochladen muss, ehe man mit dem Schulaufgabenplaner anfangen, etc. (z.B. ausgrauen von buttons)
+
+Katja:
+- Jeder Schüler hat ein Rating
+ → Startwert bei 100, subrahiert vom Abstand der Tage zwischen zweier Prüfungen
+ → Hat ein Schüler eine Prüfung am selben Tag => Rating = 500
+ → Kurs kriegen ein Durschnittsrating, abhängig von dem Schülerrating seiner Schüler
+- Manuelles Tauschen von Klausuren (mit anschließendem Abgleich des neuresultierenden Rating - in progress)
+- Am Ende des Algos werden die Events erstellt
+
+
+Generell: bis zum nächsten Meeting alles in einem Branch zusammenfassen

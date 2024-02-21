@@ -1,0 +1,91 @@
+P_29.01.24
+
+
+Separates Tool Paul
+
+Erledigt
+
+Radiobutton mit Standardwert "Favorit"
+Datum kann manuell eingegeben werden
+Fehlermeldung bei ungültigem Datum
+Termin löschen Button
+
+ToDo
+
+Lücken zwischen Kästchen einfügen
+Breite der Kästchen dynamisch anpassen
+Kurse aufteilen
+Kommentare hinzufügen
+Backend-Tests durchführen
+Constraints auf Gültigkeit prüfen
+Ein Favorit pro Kurs
+Alle REST-Endpunkte aufführen
+Datenverarbeitung Christian
+
+Erledigt
+
+Datumsbereich für Kalender anpassen und übergeben
+Export
+
+ToDo
+
+Probleme beim Hochladen beheben
+Hochladen sollte nicht stören, wenn der Kurs noch einmal hochgeladen wird
+Formulartexte anpassen
+
+GUI Nam
+
+Erledigt
+
+Intro-Text anpassen
+Intro sollte in einer Session nur einmal angezeigt werden
+Button hinzufügen, um das Intro erneut zu starten
+Buttonreihenfolge ändern
+Button "Initialisieren" (initialDistribution), dann "Schrittweises Erhöhen" (iterationNextStep), dann "Starten" (algo), dann "Stoppen"
+Konfigurieren und Start zusammen anzeigen
+Kalender auf den verfügbaren Zeitraum beschränken
+Infotexte bei der Konfiguration verbessern
+Testtermine nicht anzeigen
+Eingelesene Constraints anzeigen
+Kalender ausblenden/ausgrauen, bis Kalenderliste hochgeladen wurde
+Visuelles Feedback auf hochgeladene Kurse und Kalender
+PossibleDates-Funktion für Katja erstellen
+Bug beim Einlesen von Constraints beheben und GUI-Button bei Fehler aktualisieren
+
+ToDo
+
+Erklärung für beide Buttons "Kurse hochladen" und "Kalender hochladen"
+Ereignis ziehen entfernen
+Höhe der Buttons unabhängig vom Zustand gleich
+Icons anpassen: Oben "Hochladen" nach oben, unten "Nach unten"
+Parameter: Button zum Zurücksetzen der Standardparameter
+Mindestdifferenz
+Buttons des aktuellen Zustands ausgegraut, solange "Initialisieren" noch nicht gedrückt wurde. Klarmachen, was man in der Konfiguration tun kann.
+Aktuell nicht mehr verbesserbar ist, in GUI anzeigen
+Ereignis hinzufügen ist nicht nötig
+Manuell geändertes mögliches Szenario? Durch Rating, verletztbar durch das Rating
+Lücke zwischen Button und Kalender
+
+
+Algorithmus Katja
+
+Erledigt
+
+Möglichkeit, den Algorithmus auch mehrere Schritte laufen zu lassen
+Algorithmus mit größeren Testdaten testen
+
+ToDo
+
+Algorithmus-Bugfixes 
+
+
+ALlgemein:
+Abschlusspräsentation
+Ergebnis sehen: Excel-Beispiel, Benutzeroberfläche, Excel-Beispiel entfernen
+Beschreibung der Tools und Aufgabenbereiche
+Per Screenshots erklären
+5-7 Minuten
+Benutzerhandbuch für den Endnutzer
+Entwicklerhandbuch für die Person, die alles wissen muss, wie man damit arbeiten kann
+Was muss man machen, um die Anwendung zu starten: npm install. npm start
+Testen müssen wir nicht mehr erklären

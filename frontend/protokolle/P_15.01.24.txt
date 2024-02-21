@@ -1,0 +1,43 @@
+P_15.01.24
+
+Datenverarbeitung Christian:
+Erledigt:
+* Syntaxprüfung für die Header-Zeile
+* Kursbelegung der Schule in festgelegtes Format überführen
+* Datum für Kalenderliste in deutsches Format überführen
+* Editable und AllDay aus Liste entfernen und defaults setzen
+TODO:
+* Fachname, Schiene und Lehrer fertig abtippen
+* Syntaxüberprüfung beim Kalender
+* Herunterladen der fertiggestellten Dateien
+* Überprüfen der Constraints auf sinnhaftigkeit: Constraintdatum muss im Klausurbereich sein und darf nicht in den  Ferien liegen
+
+Algorithmus Katja:
+Erledigt:
+* Erste Tauschvorgänge, funktionieren aber noch nicht 
+* Problem: Objektreferenzen werden übergeben, benötigt geklonte Objekte
+TODO:
+* Stop ermöglichen und nach jeder Iteration zwischenergebnisse der GUI zur Verfügung stellen
+* Rest vom letzten Sprint
+
+Separates Tool: Paul
+Erledigt:
+* CSS
+* Kurs ist Dropdown
+* Eingegebene Constraints werden in einer Liste angezeigt
+TODO:
+* Kurse in Kofig oder Konstanten Datei Abspeichern, sodass sie verändert werden können
+* Q11/Q12 auswählbar machen (in Konfig Datei eingeben)
+* Import der JSON in die Hauptanwendung
+* CSS: Abstände zwischen der Eingabe, Datum auf deutsches Format, Datum auch in Liste in deutsch anschauen, Favorit/Geblockt optisch als Alternativen darstellen, Jeder Konstraint benutzt einen Kasten, Löschen ein bisschen separater
+
+GUI Nam
+Erledigt:
+* Einbinden des Algorithmus und Anzeigen der Events
+TODO:
+* Rating anzeigen
+* Unterbrechungsmöglichkeit des algo
+* Manuelle Änderung bewerten
+* Nach jeder Iteration aktualisieren (zumindest das Rating)
+* Bedienreihenfolge klarer gestalten (Buttons neu positionieren)
+* Punktescores für die Schüler anzeigen

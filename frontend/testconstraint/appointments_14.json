@@ -1,0 +1,12 @@
+[
+  {
+    "courseID": "Chemie",
+    "availability": true,
+    "startDate": "2024-01-23"
+  },
+  {
+    "courseID": "Chemie",
+    "availability": true,
+    "startDate": "2024-01-25"
+  }
+]

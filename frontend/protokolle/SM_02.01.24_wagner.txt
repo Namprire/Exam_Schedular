@@ -1,0 +1,25 @@
+Scrum Meeting 05.01.2024
+
+Christian:
+- Einlesen der Kalendar Excell Datei implementiert, jedoch mit folgendem Problem
+ → Excel formatiert jegliche Datum-Formate in ein Zahlencode, womit ich nicht arbeiten kann
+  → Lösungsidee: XLSX library nutzen, um das gewünschte Format herbeizuführen :)
+- Fortführend wird die Syntaxüberprüfung implementiert
+- Es muss noch die Student Klasse von Katja übernommen werden, um Konflikte zu vermeiden
+ und die Einheitlichkeit zu fördern
+
+Katja:
+- Ausgabe des Algos wird ein Event Array sein
+- Einlesen der Constraints
+- Abgleich der Constraints und dementsprechende Bewertung
+- 
+
+Paul:
+- 
+
+Nam:
+- Dialog hat eine eigene Klasse
+- externe PopUp Datei
+ → übergibt Parameter die gespeichert werden
+- GUI visuell verbessert (sieht fancy aus :)
+- 

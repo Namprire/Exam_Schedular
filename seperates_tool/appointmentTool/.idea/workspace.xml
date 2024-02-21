@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3527a86-f40a-4520-a662-22b3ff160474" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/appointmentTool/AppointmentConstraintDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/appointmentTool/AppointmentConstraintDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/appointmentTool/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/appointmentTool/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/appointmentTool/controller/AppointmentConstraintController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/appointmentTool/controller/AppointmentConstraintController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/appointmentTool/entity/AppointmentConstraint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/appointmentTool/entity/AppointmentConstraint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/appointmentTool/repository/AppointmentConstraintRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/appointmentTool/repository/AppointmentConstraintRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentTool.js" beforeDir="false" afterPath="$PROJECT_DIR$/../tool-gui/src/components/AppointmentTool.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2brGGvye6Ew57X9eWBNBJyZOzpw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Paul Igna/OneDrive - Universität Würzburg/Desktop/last push/swpws23_schulaufgabenplaner/seperates_tool/appointmentTool"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AppointmentToolApplication">
+    <configuration name="AppointmentToolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="appointmentTool.AppointmentToolApplication" />
+      <module name="appointmentTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appointmentTool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppointmentConstraintControllerTest.testGetAllAppointmentConstraints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="appointmentTool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appointmentTool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appointmentTool" />
+      <option name="MAIN_CLASS_NAME" value="appointmentTool.AppointmentConstraintControllerTest" />
+      <option name="METHOD_NAME" value="testGetAllAppointmentConstraints" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppointmentToolApplication" />
+        <item itemvalue="JUnit.AppointmentConstraintControllerTest.testGetAllAppointmentConstraints" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3527a86-f40a-4520-a662-22b3ff160474" name="Changes" comment="" />
+      <created>1706965699305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706965699305</updated>
+    </task>
+    <servers />
+  </component>
+</project>
